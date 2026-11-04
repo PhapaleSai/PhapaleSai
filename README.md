@@ -98,10 +98,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PhapaleSai&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=PhapaleSai&bg_color=102216&color=11d452&line=11d452&point=11d452&area=true&hide_border=true" alt="GitHub Activity Graph"/>
-</p>
-
 ---
 
 <p align="center">
